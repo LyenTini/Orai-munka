@@ -10,6 +10,9 @@ namespace AukcioProjekt
     {
         static void Main(string[] args)
         {
+            Console.WriteLine("Próba");
+
+            Console.ReadLine();
         }
     }
 }
